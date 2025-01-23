@@ -1,5 +1,5 @@
-const TELEGRAM_BOT_TOKEN = '7852049948:AAFFkvkc-P1TcRMin_EggatMfqY-QFyc3F8';
-const TELEGRAM_CHAT_ID = '-1002434577801';
+const TELEGRAM_BOT_TOKEN = '7781468085:AAEdLDEdPbC1zQUOJnNmYCPgkH84uuwLfgU';
+const TELEGRAM_CHAT_ID = '-1002493880170';
 
 const app = Vue.createApp({
   data() {
